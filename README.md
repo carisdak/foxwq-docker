@@ -1,9 +1,8 @@
 # Run fox weiqi on Docker
 
-This repository provides an alternative for Go player who want to use the Fox Weiqi go server (Linux and MacOS users).
+This repository provides an alternative for Go players who want to use the Fox Weiqi go server (Linux and MacOS users).
 
 ## Requirements
-
 
 ### Linux users
 
